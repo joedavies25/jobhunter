@@ -72,7 +72,6 @@ Install Angular Material with following settings:
 - global Angular Material typography styles: yes
 - BrowserAnimationModules: no
 
-
 ## Tech Stack
 
 * [Angular](https://angular.io/)
