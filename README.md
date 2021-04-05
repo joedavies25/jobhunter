@@ -91,7 +91,7 @@ Next steps:
 
 ## Contributors
 
-**Maria Lukyanova** - [GitHub](https://github.com/marlukyanova) - [LinkedIn](www.linkedin.com/in/marlukyanova)
-**Gabor Halasz** - [GitHub](https://github.com/Gabss405) - [LinkedIn](https://www.linkedin.com/in/gaborh/)
-**Gabriel Kiss** - [GitHub](https://github.com/Gabriel-Kiss) - [LinkedIn](https://www.linkedin.com/in/gabriel-kiss-london/)
-**Joe Davies** - [GitHub](https://github.com/joedavies25) - [LinkedIn](https://www.linkedin.com/in/joe-davies-2b198220a/)
+- **Maria Lukyanova** - [GitHub](https://github.com/marlukyanova) - [LinkedIn](www.linkedin.com/in/marlukyanova)
+- **Gabor Halasz** - [GitHub](https://github.com/Gabss405) - [LinkedIn](https://www.linkedin.com/in/gaborh/)
+- **Gabriel Kiss** - [GitHub](https://github.com/Gabriel-Kiss) - [LinkedIn](https://www.linkedin.com/in/gabriel-kiss-london/)
+- **Joe Davies** - [GitHub](https://github.com/joedavies25) - [LinkedIn](https://www.linkedin.com/in/joe-davies-2b198220a/)
